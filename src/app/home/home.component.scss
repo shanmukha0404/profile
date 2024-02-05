@@ -1,0 +1,44 @@
+@import "@fontsource/titillium-web"; // Defaults to weight 400
+@import "@fontsource/titillium-web/400.css"; // Specify weight
+@import "@fontsource/titillium-web/400-italic.css"; // Specify weight and style
+@import 'aos/dist/aos.css';
+.titFont{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+ li a:hover {
+    color: red;
+}
+
+ li a {
+    color: wheat;
+    cursor: pointer;
+  }
+
+  .section1{
+    padding-top: 250px;
+    padding-bottom: 300px;
+  }
+
+  .headingColor{
+    // color: #FF652F;
+    // color: #14A76C;
+    // color: #FFE400;
+    color: #00e7ff;
+  }
+
+  .mainFontSize{
+    font-size: 60px;
+  }
+
+  .getInTouch{
+        background-color: transparent;
+        padding: 10px;
+        border-color: #00e7ff;
+  }
