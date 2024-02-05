@@ -1,0 +1,1 @@
+{"ast":null,"code":"\"use strict\";\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.settings = void 0;\nexports.settings = {\n  debug: false,\n  gravity: 800,\n  zIndex: 99999,\n  respectReducedMotion: true\n};","map":null,"metadata":{},"sourceType":"script"}
